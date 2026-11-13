@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="482f1169-0606-4706-a2c6-cfde435eb62b" name="Changes" comment="&quot;Added Experement&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstJavaProject/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstJavaProject/Reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
-    </list>
+    <list default="true" id="482f1169-0606-4706-a2c6-cfde435eb62b" name="Changes" comment="&quot;Added many things&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +94,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
@@ -113,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Test&quot;" />
     <MESSAGE value="&quot;Added Experement&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added Experement&quot;" />
+    <MESSAGE value="&quot;Added many things&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added many things&quot;" />
   </component>
 </project>
